@@ -1,1 +1,2 @@
-php:8-apache
+php:5.5.38
+mysql:8.0
